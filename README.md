@@ -26,7 +26,7 @@ Perfect for securing your accounts with one click!
 
 
 ## 📷 Screenshot
-![Password Generator](password-generator-screenshot.PNG)
+![Password Generator](password-genarator.PNG)
 
 
 
