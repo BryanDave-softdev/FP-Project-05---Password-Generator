@@ -24,11 +24,9 @@ Perfect for securing your accounts with one click!
    - Symbols (!@#$%^&*)
 3. The password is generated and printed.
 
-## 📌 How to Run
-
-```bash
-python password_generator.py
 
 ## 📷 Screenshot
-[Dice Roller Simulator Screenshot](password-genarator.PNG)
+![Password Generator](password-generator-screenshot.PNG)
+
+
 
