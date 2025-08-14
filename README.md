@@ -30,5 +30,5 @@ Perfect for securing your accounts with one click!
 python password_generator.py
 
 ## 📷 Screenshot
-![Dice Roller Simulator Screenshot](dice-roller-screenshot.PNG)
+[Dice Roller Simulator Screenshot](password-genarator.PNG)
 
