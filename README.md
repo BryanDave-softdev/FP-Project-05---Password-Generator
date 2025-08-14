@@ -28,3 +28,7 @@ Perfect for securing your accounts with one click!
 
 ```bash
 python password_generator.py
+
+## 📷 Screenshot
+![Dice Roller Simulator Screenshot](dice-roller-screenshot.PNG)
+
